@@ -34,7 +34,7 @@ class Christopher():
                                     "subtitle": "A Beginner's Guide to 3D Printing for Cosplay and Replicas",
                                     "url": "https://pritningprops.com/",
                                 }
-                            ]
+                            ],
                     "speaker": [
                         "DerbyCon",
                         "CircleCityCon",
