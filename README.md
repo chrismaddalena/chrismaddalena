@@ -70,7 +70,7 @@ class Christopher():
 ```
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismaddalena&show_icons=true&theme=material-palenight" /><img align="center" style="height: 195px; margin-left: 5px"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismaddalena&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismaddalena&show_icons=true&theme=material-palenight" /> <img align="center" style="height: 195px; padding-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismaddalena&layout=compact&theme=material-palenight" />
 </div>
 
 ---
