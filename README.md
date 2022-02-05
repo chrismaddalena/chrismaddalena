@@ -1,6 +1,6 @@
 ## Howdy, I'm Christopher Maddalena! 👋
 
-_Technical Director_ at [SpecterOps](http://www.specterops.io)
+_Director of Internal and Community Products_ at [SpecterOps](http://www.specterops.io)
 
 Author of _Printing Props: A Beginner's Guide to 3D Printing for Cosplay and Replicas_ ([https://printingprops.com](https://printingprops.com))
 
@@ -26,13 +26,13 @@ class Christopher():
                     "JavaScript",
                     "Ruby",
                 ]
-    services = ["Docker", "Docker Cpmpose", "AWS",]
+    services = ["Docker", "Docker Compose", "AWS",]
     work_output = {
                     "author": [
                                 {
                                     "title": "Printing Props",
                                     "subtitle": "A Beginner's Guide to 3D Printing for Cosplay and Replicas",
-                                    "url": "https://pritningprops.com/",
+                                    "url": "https://printingprops.com/",
                                 }
                             ],
                     "speaker": [
@@ -40,7 +40,7 @@ class Christopher():
                         "CircleCityCon",
                         "CodeMash",
                         "BSides Detroit",
-                        "BlackHat USA"
+                        "BlackHat USA",
                     ],
                     "trainer": ["BlackHat USA",],
                     "projects": [
