@@ -1,6 +1,6 @@
 ## Howdy, I'm Christopher Maddalena! 👋
 
-_Director of Internal and Community Products_ at [SpecterOps](http://www.specterops.io)
+_Director of Internal and Community Projects_ at [SpecterOps](http://www.specterops.io)
 
 Author of _Printing Props: A Beginner's Guide to 3D Printing for Cosplay and Replicas_ ([https://printingprops.com](https://printingprops.com))
 
@@ -15,8 +15,6 @@ class Christopher():
     pronouns = ["he", "him"]
     contacts = {
                     "email": "chris.maddalena@protonmail.com",
-                    "twitter": "@cmaddalena",
-                    "note": "Send a Twitter DM to discuss projects",
                 }
     languages = [
                     "Python",
@@ -26,7 +24,7 @@ class Christopher():
                     "JavaScript",
                     "Ruby",
                 ]
-    services = ["Docker", "Docker Compose", "AWS",]
+    services = ["Docker", "Docker Compose", "AWS"]
     work_output = {
                     "author": [
                                 {
@@ -64,7 +62,6 @@ class Christopher():
                 }
     extras = {
                 "adhd": True,
-                "currentGoal": "Learning React",
             }
 }
 ```
