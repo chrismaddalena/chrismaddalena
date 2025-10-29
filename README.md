@@ -1,73 +1,42 @@
 ## Howdy, I'm Christopher Maddalena! 👋
 
-_Director of Internal and Community Projects_ at [SpecterOps](http://www.specterops.io)
+_Director of Internal and Community Projects_ at [**SpecterOps**](http://www.specterops.io) | Author of [**Printing Props**](https://printingprops.com) | BlackHat Trainer
 
-Author of _Printing Props: A Beginner's Guide to 3D Printing for Cosplay and Replicas_ ([https://printingprops.com](https://printingprops.com))
+[![Twitter: cmaddalena](https://img.shields.io/twitter/follow/cmaddalena?style=social)](https://twitter.com/cmaddalena) [![GitHub ChrisMaddalena](https://img.shields.io/github/followers/chrismaddalena?label=follow&style=social)](https://github.com/chrismaddalena) [![Linkedin: thaianebraga](https://img.shields.io/badge/-christophermaddalena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmaddalena/)](https://www.linkedin.com/in/cmaddalena/)
 
-[![Twitter: cmaddalena](https://img.shields.io/twitter/follow/cmaddalena?style=social)](https://twitter.com/cmaddalena) &nbsp;&nbsp; [![GitHub ChrisMaddalena](https://img.shields.io/github/followers/chrismaddalena?label=follow&style=social)](https://github.com/chrismaddalena) &nbsp;&nbsp; [![Linkedin: thaianebraga](https://img.shields.io/badge/-christophermaddalena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmaddalena/)](https://www.linkedin.com/in/cmaddalena/)
+### 🔐 Security Community Work
 
-### About Me
+At **SpecterOps**, I lead internal tooling and community-focused open source projects supporting offensive security operations and the broader security community.
 
+#### Featured Projects
 
+**[Ghostwriter](https://github.com/GhostManager/Ghostwriter)** — *Lead Developer @ GhostManager Org*  
+Open source platform for managing security assessments, reporting, and operation tracking. Actively developed and widely used by security teams worldwide.
+
+**[ODIN](https://github.com/chrismaddalena/ODIN)** — *Creator & Maintainer*  
+Automated intelligence gathering and reconnaissance framework for OSINT operations.
+
+**[Goreport](https://github.com/chrismaddalena/Goreport)** & **[Cooper](https://github.com/chrismaddalena/Cooper)** — *Creator*  
+Supporting tools for offensive security operations (maintenance mode).
+
+### 📖 Author & Speaker
+
+**[Printing Props: A Beginner's Guide to 3D Printing for Cosplay and Replicas](https://printingprops.com)** — A comprehensive guide to 3D printing for makers and cosplayers.
+
+**Speaking & Training:** BlackHat USA (Trainer), DerbyCon, CircleCityCon, CodeMash, BSides Detroit
+
+---
 
 ```python
 class Christopher():
     pronouns = ["he", "him"]
-    contacts = {
-                    "email": "chris.maddalena@protonmail.com",
-                }
-    languages = [
-                    "Python",
-                    "HTML",
-                    "CSS",
-                    "C#",
-                    "JavaScript",
-                    "Ruby",
-                ]
-    services = ["Docker", "Docker Compose", "AWS"]
-    work_output = {
-                    "author": [
-                                {
-                                    "title": "Printing Props",
-                                    "subtitle": "A Beginner's Guide to 3D Printing for Cosplay and Replicas",
-                                    "url": "https://printingprops.com/",
-                                }
-                            ],
-                    "speaker": [
-                        "DerbyCon",
-                        "CircleCityCon",
-                        "CodeMash",
-                        "BSides Detroit",
-                        "BlackHat USA",
-                    ],
-                    "trainer": ["BlackHat USA",],
-                    "projects": [
-                        {"Ghostwriter": {
-                            "development": True,
-                            "status": "Active Development"
-                        }},
-                        {"Goreport": {
-                            "development": False,
-                            "status": "Maintenance Mode"
-                        }},
-                        {"Cooper": {
-                            "development": False,
-                            "status": "Maintenance Mode"
-                        }},
-                        {"ODIN": {
-                            "development": False,
-                            "status": "Under Development"
-                        }},
-                    ]
-                }
-    extras = {
-                "adhd": True,
-            }
+    contact = "chris.maddalena@protonmail.com"
+    languages = ["Python", "C#", "JavaScript", "Ruby", "HTML/CSS"]
+    tools = ["Docker", "AWS", "Django", "GraphQL"]
+    current_focus = {
+        "role": "Director @ SpecterOps",
+        "projects": ["Ghostwriter", "Community Tools"],
+        "passion": "Building open source security tools"
+    }
 }
 ```
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismaddalena&show_icons=true&theme=material-palenight" /> <img align="center" style="height: 195px; padding-left: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismaddalena&layout=compact&theme=material-palenight" />
-</div>
-
----
