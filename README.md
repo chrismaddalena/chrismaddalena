@@ -38,5 +38,4 @@ class Christopher():
         "projects": ["Ghostwriter", "Community Tools"],
         "passion": "Building open source security tools"
     }
-}
 ```
