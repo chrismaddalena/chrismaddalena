@@ -8,16 +8,24 @@ _Director of Internal and Community Projects_ at [**SpecterOps**](http://www.spe
 
 At **SpecterOps**, I lead internal tooling and community-focused open source projects supporting offensive security operations and the broader security community.
 
-#### Featured Projects
+#### Current Projects
 
 **[Ghostwriter](https://github.com/GhostManager/Ghostwriter)** — *Lead Developer @ GhostManager Org*  
 Open source platform for managing security assessments, reporting, and operation tracking. Actively developed and widely used by security teams worldwide.
+
+**[Ghostwriter CLI](https://github.com/GhostManager/Ghostwriter_CLI)** — *Lead Developer @ GhostManager Org*  
+Command-line interface for interacting with Ghostwriter's GraphQL API.
+
+**[BloodHound CLI](https://github.com/SpecterOps/BloodHound-CLI)** — *Contributor @ SpecterOps*  
+Command-line tool for BloodHound Community Edition for Active Directory security analysis.
+
+#### Past Projects
 
 **[ODIN](https://github.com/chrismaddalena/ODIN)** — *Creator & Maintainer*  
 Automated intelligence gathering and reconnaissance framework for OSINT operations.
 
 **[Goreport](https://github.com/chrismaddalena/Goreport)** & **[Cooper](https://github.com/chrismaddalena/Cooper)** — *Creator*  
-Supporting tools for offensive security operations (maintenance mode).
+Supporting tools for offensive security operations.
 
 ### 📖 Author & Speaker
 
@@ -31,7 +39,7 @@ Supporting tools for offensive security operations (maintenance mode).
 class Christopher():
     pronouns = ["he", "him"]
     contact = "chris.maddalena@protonmail.com"
-    languages = ["Python", "C#", "JavaScript", "Ruby", "HTML/CSS"]
+    languages = ["Python", "C#", "JavaScript", "HTML/CSS"]
     tools = ["Docker", "AWS", "Django", "GraphQL"]
     current_focus = {
         "role": "Director @ SpecterOps",
